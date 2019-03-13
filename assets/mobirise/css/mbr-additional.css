@@ -10,6 +10,9 @@
   font-family: 'Playfair Display', sans-serif;
 }
 #content5-b P {
-  text-align: left;
+  text-align: center;
   font-family: 'Roboto', sans-serif;
+}
+#content5-b .mbr-section-title {
+  text-align: center;
 }

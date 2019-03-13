@@ -7,7 +7,8 @@
       "title": "PurityM",
       "styling": {},
       "additionalSetColors": [
-        "#dfff00"
+        "#dfff00",
+        "#f6ffba"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -36,8 +37,8 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
-            "color": "#fff",
+            "transparent": true,
+            "color": "#f6ffba",
             "hamburgerColor": "#000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-danger-outline btn-danger\" data-app-selector=\".navbar-nav .btn\" href=\"tel:966570415667\">تواصل معنا&nbsp;</a></li>",
@@ -113,7 +114,7 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.7"
           },
           "title": "خدماتنا&nbsp;",
           "caption": "<p><br></p><p>(لكل أصحاب محطات الوقود والمصانع وشركات المقاولات والتصنيع الذين يستهلكون وقود ( ديزل - 91 - 95&nbsp;</p><p>وباقي المحروقات نوفرها لكم عبر أسطول النقل الخاص بشركتنا فى الرياض والمناطق المحيطة بها</p><p> #توريد_لا_ينقطع .\n</p><p>** يسعدني تواصلكم 0570415667&nbsp;</p><p>نقليات-نقل-بنزين-محروقات-محطات وقود</p>",
@@ -125,9 +126,12 @@
           "_anchor": "content5-b",
           "_styles": {
             "P": {
-              "text-align": "left",
+              "text-align": "center",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
             }
           }
         },
