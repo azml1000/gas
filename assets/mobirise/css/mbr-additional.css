@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+
+#ext_menu-3 .navbar-toggler {
+  color: #000;
+}
+#ext_menu-3 .navbar-brand {
+  font-size: 16px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#content5-b P {
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+}
